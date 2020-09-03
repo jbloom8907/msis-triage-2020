@@ -1,0 +1,16 @@
+html,
+body {
+  background-color: rgb(32,32,32);
+  color: rgb(0,255,255);
+
+}
+
+nav,
+.navbar {
+  background-color: rgb(237,235,235);
+  color: rgb(169,5,51);
+}
+
+.cardPane {
+  background-color: rgb(32,32,32);
+}
